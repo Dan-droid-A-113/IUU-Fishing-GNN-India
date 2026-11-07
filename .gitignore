@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+data/raw/*
+data/processed/*
+data/synthetic/*
+!data/**/.gitkeep
+data/processed/_private/
+data/synthetic_m2/
+data/processed_m2/
+outputs/checkpoints/
