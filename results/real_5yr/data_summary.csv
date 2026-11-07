@@ -1,0 +1,17 @@
+item,value
+study period,2021-01-01 to 2025-12-31
+area (lat / lon),5-16 N / 70-82 E
+GFW events downloaded,1878474
+events dropped (started before 2021),1908
+AIS gaps raw / valid (1 h - 30 d),1004 / 913
+fishing-related vessels kept,14198
+events kept,995433
+fishing / loitering / port-visit events kept,554999 / 319027 / 94309
+encounter rows (both vessels) / AIS-off gaps kept,27026 / 72
+Sentinel-1 cell-days with unmatched detections,136950
+Sentinel-1 cell-days with any detection (imaging footprint),181002
+vessel-week nodes (with an observed next week),250831 (124658)
+edges temporal / encounter / co-location,519041 / 24414 / 1048834
+time split nodes train / val / test / embargo,195906 / 12856 / 39295 / 2774
+vessel split nodes train / val / test,175270 / 37168 / 38393
+training time (all neural models both splits 3 seeds; Colab T4),12.3 min

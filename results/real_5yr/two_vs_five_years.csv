@@ -1,0 +1,6 @@
+model,time_split_macro_pr_auc_2yr_2024_2025,time_split_macro_pr_auc_5yr_2021_2025,change
+Persistence (this week = next week),0.311,0.312,+0.001
+Gradient boosting (no graph),0.387,0.409,+0.022
+Temporal GAT (full graph),0.387,0.400,+0.013
+Temporal GAT (temporal edges only),0.392,0.411,+0.019
+Same model without graph (MLP),0.356,0.354,-0.002

@@ -1,0 +1,8 @@
+item,value
+raw synthetic AIS rows (50 vessels; 7 days),38281
+rows after cleaning,37792
+duplicates removed,378
+gaps detected (> 60 min),328
+planted blackouts found,12 / 12 (recall 100%)
+within-voyage gaps that are innocent,81.5%
+longest silence bridged by resampling,30 min

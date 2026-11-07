@@ -1,0 +1,5 @@
+# Colab already ships numpy, pandas, scipy, scikit-learn, shapely, pyproj, pyarrow,
+# matplotlib and folium. Only the offline land mask is missing.
+global-land-mask>=1.0
+torch_geometric>=2.4   # Milestone 3 graph layers (pure Python install)
+gfw-api-python-client>=1.4   # real data from Global Fishing Watch

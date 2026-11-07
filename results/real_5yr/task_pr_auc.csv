@@ -1,0 +1,9 @@
+split,task,base_rate,persistence,no_graph_mlp,gradient_boosting,temporal_gat_full,temporal_gat_temporal_only
+time,encounter,0.059,0.159,0.199,0.225,0.254,0.264
+time,loitering,0.617,0.731,0.752,0.773,0.771,0.774
+time,fishing_in_mpa,0.013,0.087,0.124,0.148,0.154,0.159
+time,fishing_outside_flag_eez,0.029,0.271,0.341,0.489,0.421,0.444
+vessel,encounter,0.048,0.206,0.291,0.317,0.309,0.306
+vessel,loitering,0.625,0.761,0.805,0.833,0.817,0.818
+vessel,fishing_in_mpa,0.015,0.096,0.198,0.263,0.210,0.204
+vessel,fishing_outside_flag_eez,0.024,0.366,0.501,0.547,0.513,0.527

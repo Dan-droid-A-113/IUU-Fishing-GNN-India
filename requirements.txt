@@ -1,0 +1,19 @@
+# Milestone 1 (CPU only). Tested with Python 3.11.
+numpy>=1.26
+pandas>=2.2
+scipy>=1.11
+scikit-learn>=1.4
+shapely>=2.0
+pyproj>=3.6
+pyarrow>=14
+matplotlib>=3.8
+folium>=0.15
+global-land-mask>=1.0
+nbformat>=5.9
+nbclient>=0.10
+ipykernel>=6.29
+pytest>=8.0
+torch>=2.1            # Milestone 2+ (preinstalled in Colab)
+torch_geometric>=2.4  # Milestone 3+
+# Milestone 4 (added when implemented): shap
+gfw-api-python-client>=1.4  # real data (Global Fishing Watch)

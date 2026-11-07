@@ -1,0 +1,17 @@
+split,test_group,model,macro_pr_auc_mean,macro_pr_auc_sd
+time,all test vessel-weeks,Gradient boosting (no graph),0.4091,
+time,all test vessel-weeks,Same model without graph (MLP),0.3541,0.0323
+time,all test vessel-weeks,Temporal GAT (full graph),0.4000,0.0083
+time,all test vessel-weeks,Temporal GAT (temporal edges only),0.4105,0.0040
+time,with encounter / co-location neighbours,Gradient boosting (no graph),0.4055,
+time,with encounter / co-location neighbours,Same model without graph (MLP),0.3532,0.0335
+time,with encounter / co-location neighbours,Temporal GAT (full graph),0.3994,0.0084
+time,with encounter / co-location neighbours,Temporal GAT (temporal edges only),0.4091,0.0039
+vessel,all test vessel-weeks,Gradient boosting (no graph),0.4900,
+vessel,all test vessel-weeks,Same model without graph (MLP),0.4490,0.0007
+vessel,all test vessel-weeks,Temporal GAT (full graph),0.4626,0.0015
+vessel,all test vessel-weeks,Temporal GAT (temporal edges only),0.4635,0.0022
+vessel,with encounter / co-location neighbours,Gradient boosting (no graph),0.4813,
+vessel,with encounter / co-location neighbours,Same model without graph (MLP),0.4403,0.0005
+vessel,with encounter / co-location neighbours,Temporal GAT (full graph),0.4550,0.0014
+vessel,with encounter / co-location neighbours,Temporal GAT (temporal edges only),0.4541,0.0017

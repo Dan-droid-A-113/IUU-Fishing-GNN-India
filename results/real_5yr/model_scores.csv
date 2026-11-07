@@ -1,0 +1,11 @@
+split,model,macro_pr_auc,macro_pr_auc_sd,macro_roc_auc,n_seeds
+time,Persistence (this week = next week),0.3119,,0.6405,1
+time,Gradient boosting (no graph),0.4091,,0.8320,1
+time,Temporal GAT (full graph),0.4000,0.0083,0.8286,3
+time,Temporal GAT (temporal edges only),0.4105,0.0040,0.8335,3
+time,Same model without graph (MLP),0.3541,0.0323,0.7765,3
+vessel,Persistence (this week = next week),0.3574,,0.6679,1
+vessel,Gradient boosting (no graph),0.4900,,0.8741,1
+vessel,Temporal GAT (full graph),0.4626,0.0015,0.8735,3
+vessel,Temporal GAT (temporal edges only),0.4635,0.0022,0.8726,3
+vessel,Same model without graph (MLP),0.4490,0.0007,0.8572,3

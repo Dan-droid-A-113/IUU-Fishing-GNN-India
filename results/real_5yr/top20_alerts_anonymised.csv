@@ -1,0 +1,21 @@
+rank,week,priority,main_driver,priority_without_main_driver,observed_following_week
+1,2025-12-08,0.800,fishing outside its flag state's EEZ,0.32,fishing_outside_flag_eez
+2,2025-12-01,0.733,fishing outside its flag state's EEZ,0.56,encounter
+3,2025-09-29,0.728,fishing outside its flag state's EEZ,0.42,fishing_outside_flag_eez
+4,2025-10-20,0.721,fishing outside its flag state's EEZ,0.48,loitering; fishing_outside_flag_eez
+5,2025-11-24,0.712,fishing outside its flag state's EEZ,0.36,encounter
+6,2025-10-27,0.712,fishing outside its flag state's EEZ,0.25,loitering; fishing_outside_flag_eez
+7,2025-11-03,0.711,fishing outside its flag state's EEZ,0.27,fishing_outside_flag_eez
+8,2025-07-07,0.708,fishing outside its flag state's EEZ,0.22,loitering; fishing_outside_flag_eez
+9,2025-12-08,0.707,fishing outside its flag state's EEZ,0.55,none
+10,2025-11-17,0.702,fishing outside its flag state's EEZ,0.45,loitering; fishing_outside_flag_eez
+11,2025-10-20,0.696,fishing outside its flag state's EEZ,0.55,fishing_outside_flag_eez
+12,2025-10-27,0.695,fishing outside its flag state's EEZ,0.26,fishing_outside_flag_eez
+13,2025-10-20,0.694,fishing outside its flag state's EEZ,0.41,encounter; loitering
+14,2025-12-01,0.691,fishing outside its flag state's EEZ,0.22,loitering
+15,2025-12-08,0.688,fishing outside its flag state's EEZ,0.50,none
+16,2025-12-08,0.687,fishing outside its flag state's EEZ,0.56,fishing_outside_flag_eez
+17,2025-12-15,0.687,fishing outside its flag state's EEZ,0.57,fishing_outside_flag_eez
+18,2025-12-08,0.686,fishing outside its flag state's EEZ,0.18,none
+19,2025-12-08,0.683,fishing outside its flag state's EEZ,0.59,fishing_outside_flag_eez
+20,2025-12-01,0.682,fishing outside its flag state's EEZ,0.57,fishing_outside_flag_eez

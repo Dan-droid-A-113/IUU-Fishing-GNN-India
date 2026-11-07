@@ -1,0 +1,15 @@
+feature_group,temporal_gat_full,gradient_boosting
+fishing outside its flag state's EEZ,0.0627,0.0850
+loitering,0.0360,0.0329
+encounters,0.0215,0.0158
+location,0.0196,0.0996
+distance from shore / port,0.0121,0.0469
+fishing inside a protected area,0.0098,0.0019
+season,0.0075,0.0279
+fishing in a non-Indian EEZ,0.0060,0.0140
+overall activity,0.0049,-0.0012
+port visits,0.0048,0.0200
+fishing effort,0.0037,0.0144
+weeks since last active,0.0035,0.0133
+vessel type,0.0003,0.0007
+AIS-off gaps,0.0001,0.0000
